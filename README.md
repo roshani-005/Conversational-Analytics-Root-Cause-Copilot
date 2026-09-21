@@ -2,7 +2,7 @@
 
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![DuckDB](https://img.shields.io/badge/DuckDB-Fast_Columnar_OLAP-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)](https://duckdb.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://roshani-005-conversational-analytics-root-cause-c-appapp-tm1crs.streamlit.app/)
 [![Plotly](https://img.shields.io/badge/Plotly-Waterfall_Charts-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 [![Gemini AI](https://img.shields.io/badge/AI_Copilot-Gemini_Augmented-8E75C2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 [![SQL Guardrails](https://img.shields.io/badge/Security-Read--Only_AST-22C55E?style=for-the-badge&logo=shields.io&logoColor=white)](https://shields.io/)
@@ -95,11 +95,11 @@ python -m streamlit run streamlit_app.py
 ```
 *The interactive dashboard will open automatically in your browser at `http://localhost:8501`.*
 
-*(Optional)* To enable live Gemini API generation, copy `.env.example` to `.env` and set your `GEMINI_API_KEY`. If omitted, the engine runs 100% offline using its built-in rule engine.
+App:https://roshani-005-conversational-analytics-root-cause-c-appapp-tm1crs.streamlit.app/
 
 ---
 
-## 📄 ATS Resume Bullets (Google X-Y-Z Formula)
+##  Resume Bullets (Google X-Y-Z Formula)
 
 ```markdown
 Conversational Analytics & Root-Cause Copilot | Python, DuckDB, Streamlit, Gemini API, Plotly
