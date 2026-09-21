@@ -1,0 +1,16 @@
+product_id,name,category,base_cost,base_price
+PROD-101,UltraBook Pro 16,Electronics,850.0,1299.0
+PROD-102,"4K Curved Monitor 34""",Electronics,320.0,549.0
+PROD-103,Noise-Canceling Headset,Electronics,95.0,199.0
+PROD-104,4K Studio Webcam,Electronics,65.0,149.0
+PROD-201,ErgoPro Mesh Chair,Home Office,180.0,389.0
+PROD-202,Dual-Motor Standing Desk,Home Office,240.0,529.0
+PROD-203,Acoustic Desk Privacy Panel,Home Office,45.0,119.0
+PROD-301,Smart Folding Treadmill,Fitness & Wellness,480.0,899.0
+PROD-302,Adjustable Dumbbell Set,Fitness & Wellness,140.0,299.0
+PROD-303,Percussive Massage Gun,Fitness & Wellness,55.0,159.0
+PROD-401,Thunderbolt 4 Docking Station,Cloud Accessories,110.0,249.0
+PROD-402,Wireless Mechanical Keyboard,Cloud Accessories,50.0,129.0
+PROD-403,Precision Ergonomic Mouse,Cloud Accessories,32.0,79.0
+PROD-501,Waterproof Commuter Backpack,Apparel & Gear,40.0,110.0
+PROD-502,All-Weather Technical Parka,Apparel & Gear,85.0,220.0
